@@ -1,5 +1,12 @@
-/dist
+/src
 /logs
 /npm-debug.log
 /node_modules
+
+/client/node_modules
+/client/src
+
 .DS_Store
+.env
+.eslintrc.js
+package-lock.json
